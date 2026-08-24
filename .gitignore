@@ -1,0 +1,9 @@
+# 旧 Dev-Cpp IDE 目录，绝不入库
+Dev-Cpp/
+
+# Java 编译产物
+*.class
+
+# IDEA 配置
+.idea/
+*.iml
