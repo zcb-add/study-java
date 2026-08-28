@@ -7,3 +7,6 @@ Dev-Cpp/
 # IDEA 配置
 .idea/
 *.iml
+
+# 本地对话记录，永不入库
+notes/对话记录.md
