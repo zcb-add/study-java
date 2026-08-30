@@ -10,3 +10,6 @@ Dev-Cpp/
 
 # 本地对话记录，永不入库
 notes/对话记录.md
+
+# 独立的 AI Agent 项目仓库（自己有 .git，避免被当成子模块卷进来）
+agent-assistant/
