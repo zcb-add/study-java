@@ -13,3 +13,6 @@ notes/对话记录.md
 
 # 独立的 AI Agent 项目仓库（自己有 .git，避免被当成子模块卷进来）
 agent-assistant/
+
+# 独立的论文笔记仓库（自己有 .git）
+agent-paper-notes/
